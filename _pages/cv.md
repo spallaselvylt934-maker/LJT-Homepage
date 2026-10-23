@@ -16,9 +16,9 @@ Education
   * PhD supervisor: Professor Junxian He
 * B.Eng. (2020-2024), Shanghai Jiao Tong University
   * Graduated in June 2024
+  * Professor Junxian He also advised me during my undergraduate studies at SJTU
 * Honors
   * Received the Zhiyuan Honor Scholarship at Shanghai Jiao Tong University
-  * Professor Junxian He also advised me during my undergraduate studies at SJTU
 
 Research Experience
 ======
