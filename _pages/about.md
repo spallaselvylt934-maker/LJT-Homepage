@@ -40,7 +40,7 @@ I am **Junteng Liu**, a first-year PhD candidate at the **HKUST NLP Group**, sup
 
 **2025**
 
-- Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. [**SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**]({{ base_path }}/publication/2025-01-01-synlogic). *arXiv*, 2025. (First author; code available on GitHub according to the paper page.)
+- Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. [**SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**]({{ base_path }}/publication/2025-01-01-synlogic). *arXiv*, 2025. (First author; code repository available on GitHub.)
 - Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. [**On the Perception Bottleneck of VLMs for Chart Understanding**]({{ base_path }}/publication/2025-02-01-on-the-perception-bottleneck-of-vlms-for-chart-understanding). *arXiv*, 2025. (First author; code: GitHub repository Vision4Chart.)
 
 **2024**
